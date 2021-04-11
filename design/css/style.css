@@ -80,3 +80,7 @@ button.luxury {
     color: hsl(179, 100%, 13%);
     background-color: hsl(0, 0%, 95%);
 }
+
+button:hover {
+    background-color: #aaaaaa;
+}
